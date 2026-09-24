@@ -25,7 +25,7 @@ It allows users to add, view, search, delete, and calculate expenses. All expens
 ```text
 Expense-Manager/
 │
-├── expense_manager.py
+├── main.py
 ├── expenses.json
 └── README.md
 ```
